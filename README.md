@@ -1,4 +1,4 @@
-# 🧠 本地 RAG 医疗问答系统（支持多模型 + Reranker + BERTScore评估）
+# 🧠 本地 RAG 医疗问答系统
 
 本项目基于本地大语言模型（LLM）、RAG（Retrieval-Augmented Generation）技术实现一个医疗问答系统，集成了向量数据库、文档检索、重排序（Rerank）和 BERTScore 自动评估等模块，支持运行于 **纯本地环境**，无外部 API 调用。
 
